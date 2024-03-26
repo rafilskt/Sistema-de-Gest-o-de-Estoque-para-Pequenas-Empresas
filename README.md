@@ -1,5 +1,6 @@
 ## Sistema de Gestão de Estoque para Pequenas Empresas
 Este sistema foi criado para facilitar a gestão de estoque em pequenas empresas. Ele centraliza informações sobre produtos, categorias, movimentações de estoque e fornecedores, permitindo um controle de estoque eficiente e a manutenção de um registro detalhado das operações.
+![banner](https://github.com/rafilskt/Sistema-de-Gestao-de-Estoque-para-Pequenas-Empresas/blob/main/gest%C3%A3o-de-estoque-768x427.png)
 
 ### Tabelas Implementadas
 #### produtos
