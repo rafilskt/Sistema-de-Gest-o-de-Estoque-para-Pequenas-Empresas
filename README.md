@@ -102,4 +102,4 @@ Este projeto é licenciado sob a Licença MIT License.
 ### Contato
 Para qualquer dúvida ou suporte técnico, entre em contato através de:
 - GitHub Issues
-- LinkedIn
+- LinkedIn https://www.linkedin.com/in/rafael-trindade-dev/
