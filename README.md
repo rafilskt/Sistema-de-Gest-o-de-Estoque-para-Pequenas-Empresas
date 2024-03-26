@@ -34,8 +34,8 @@ Sistema de Gestão de Estoque para Pequena Empresa
 Studio Code, etc.).
 
 ### Configuração
-Clone o repositório:
-git clone [url-do-repositorio]
+- Clone o repositório:
+git clone https://github.com/rafilskt/Sistema-de-Gestao-de-Estoque-para-Pequenas-Empresas.git
 ### Uso
 Este sistema fornece uma interface de linha de comando para gerenciar produtos,
 categorias, movimentações de estoque e fornecedores. A seguir, você encontrará
